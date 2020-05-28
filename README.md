@@ -2,6 +2,7 @@ Editor: Davis Bosworth dboswor2@uoregon.edu
 
 ## Building/Running my Program in terminal
 $ docker-compose build
+
 $ docker-compose up
 
 All APIs are on localhost port 5000. Individual API links on localhost:5001/APIname. The brevet calculator is on localhost:5003.
