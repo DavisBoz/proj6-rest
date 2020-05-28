@@ -31,5 +31,5 @@ This program uses the same logic with the addition of REST APIs. You can view al
 
 * "http://<host:port>/listOpenOnly/csv?top=3" return top 3 open times only (in ascending order) in CSV format 
 * "http://<host:port>/listOpenOnly/json?top=5" return top 5 open times only (in ascending order) in JSON format
-* "http://<host:port>/listCloseOnly/csv?top=6" return top 5 close times only (in ascending order) in CSV format
+* "http://<host:port>/listCloseOnly/csv?top=6" return top 6 close times only (in ascending order) in CSV format
 * "http://<host:port>/listCloseOnly/json?top=4" return top 4 close times only (in ascending order) in JSON format
